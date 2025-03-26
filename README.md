@@ -1,4 +1,4 @@
-## Hi there, Im Josiah
+## Hi there, i'm Josiah
 
 - 🌱 I am a forward-thinking software developer with 6+ years of expertise in full-stack web development and AI-enhanced digital learning. 
 - 👯 I have demonstrated success leading cross-functional teams to deliver robust applications that drive business efficiency and educational innovation.
